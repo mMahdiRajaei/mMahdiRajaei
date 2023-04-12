@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mMahdiRajaei
+- 👋 Hi, I’m MohamadMahdiRajaei
 - 👀 I’m interested in learning and coding
-- 🌱 I’m currently learning Rust lang
-- 💞️ I’m looking to collaborate with new rust programmers
+- 🌱 I’m currently learning Unity and C#
+- 💞️ I’m looking to collaborate with new Unity programmers
 - 📫 My whatsApp number is: +989383496096
 
 <!---
